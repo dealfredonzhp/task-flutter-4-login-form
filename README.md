@@ -4,6 +4,6 @@
 
 | Login Screen | Home Screen  |
 | --- | --- |
-| ![Screenshot 2024-11-16 195600](https://github.com/user-attachments/assets/d40bdb0c-23c1-4ed8-9666-883844624cc6) | ![Screenshot 2024-11-16 195622](https://github.com/user-attachments/assets/aa5503e2-b971-4490-a95f-8f5d144f4cab) |
-
-*Backend : https://github.com/anatsurayyaz/task-final-golang*
+| ![Screenshot (2468)](https://github.com/user-attachments/assets/e357ac8a-3e8a-47d6-aeec-ce2816f44194)
+ | ![Screenshot (2469)](https://github.com/user-attachments/assets/3958d0ff-4fa0-46c5-a39c-39fd57a88b3a)
+ |
